@@ -1,0 +1,30 @@
+{
+  "name": "numeral-comma-formatter",
+  "version": "1.0.0",
+  "description": "lightweight and versatile JavaScript utility for formatting numbers with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pofnor/numeral-comma-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "format",
+    "comma",
+    "numeral",
+    "utility",
+    "currency",
+    "conversion",
+    "delimiter",
+    "numeric"
+  ],
+  "author": "pofnor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pofnor/numeral-comma-formatter/issues"
+  },
+  "homepage": "https://github.com/pofnor/numeral-comma-formatter#readme"
+}
