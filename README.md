@@ -1,20 +1,20 @@
-# Numeral Comma Formatter
+# Number Comma Formatter
 
 ## Description
-Numeral Comma Formatter is a JavaScript utility for formatting numbers by adding commas for better readability. It can handle both plain numbers and strings with various formats, providing a user-friendly and locale-aware formatting solution.
+number Comma Formatter is a JavaScript utility for formatting numbers by adding commas for better readability. It can handle both plain numbers and strings with various formats, providing a user-friendly and locale-aware formatting solution.
 
 ## Installation
 ```bash
  
-npm install numeral-comma-formatter
+npm install number-comma-formatter
  
 ```
 ## Usage
 ```bash
  
-import numeralCommaFormatter from 'numeral-comma-formatter';
+import numberCommaFormatter from 'number-comma-formatter';
 
-const formattedNumber = numeralCommaFormatter('1525.25$');
+const formattedNumber = numberCommaFormatter('1525.25$');
 console.log(formattedNumber); // Output: 1,525.25
  
 ```
@@ -27,7 +27,7 @@ The input can contain any string, not just currency symbols. The utility will ex
 ## Example
 ```bash
 
-const formattedValue = numeralCommaFormatter('9876543.21');
+const formattedValue = numberCommaFormatter('9876543.21');
 console.log(formattedValue); // Output: 9,876,543.21
 
 ```
@@ -39,7 +39,7 @@ npm test
 
 
 ```
-This will execute the test cases and ensure that the Numeral Comma Formatter is working as expected.
+This will execute the test cases and ensure that the Number Comma Formatter is working as expected.
 
 ## Special Thanks
 A heartfelt expression of respect and gratitude to [Mary139](https://github.com/mary139) as a mentor. Your guidance and mentorship have been instrumental in the development of this project, and your wisdom has left a lasting impact. Thank you for being an inspiring mentor.

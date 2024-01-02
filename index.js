@@ -1,4 +1,4 @@
-export default function numeralCommaFormatter (input) {
+export default function numberCommaFormatter (input) {
   if (input) {
     const rawValue = input.replace(/[^\d.]|[.](?=.*[.])/g, '')
     const [wholePart, decimalPart] = rawValue.split('.')

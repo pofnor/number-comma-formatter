@@ -1,5 +1,5 @@
 {
-  "name": "numeral-comma-formatter",
+  "name": "number-comma-formatter",
   "version": "1.0.0",
   "description": "lightweight and versatile JavaScript utility for formatting numbers with ease",
   "main": "index.js",
