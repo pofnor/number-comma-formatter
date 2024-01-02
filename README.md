@@ -31,5 +31,18 @@ const formattedValue = numeralCommaFormatter('9876543.21');
 console.log(formattedValue); // Output: 9,876,543.21
 
 ```
+## Running Tests
+To run the test suite, use the following command:
+```bash
+
+npm test
+
+
+```
+This will execute the test cases and ensure that the Numeral Comma Formatter is working as expected.
+
+## Special Thanks
+A heartfelt expression of respect and gratitude to [Mary139](https://github.com/mary139) as a mentor. Your guidance and mentorship have been instrumental in the development of this project, and your wisdom has left a lasting impact. Thank you for being an inspiring mentor.
+
 ## License
 This project is licensed under the ISC License.
